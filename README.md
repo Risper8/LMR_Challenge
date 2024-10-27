@@ -24,6 +24,6 @@ The data used for the model is stored in JSON and CSV files.
 - Transformers
 - spaCy
 
-  ## Results
+## Results
   
-  **WER score:** 0.167
+**WER score:** 0.167
